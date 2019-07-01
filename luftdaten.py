@@ -54,7 +54,7 @@ def all_data():
         yield data
 
 
-def luftdaten(event, context):
+def luftdaten():
     sensor_name_list = []
     sensor_lat_list = []
     sensor_long_list = []
@@ -127,4 +127,4 @@ def luftdaten(event, context):
 
 
 if __name__ == "__main__":
-    luftdaten(event="", context="")
+    luftdaten()
