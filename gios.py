@@ -103,8 +103,8 @@ def gios():
                 'sensor': 'WIOS',
                 'value': value,
                 'id': obj['id'],
-                'lat': obj['gegrLat'],
-                'lon': obj['gegrLon'],
+                'lat': float(obj['gegrLat']),
+                'lon': float(obj['gegrLon']),
             })
 
         print(' time: %.2fs' % (time() - t))

@@ -44,8 +44,8 @@ def _get_fancy_data_from_single_luftdaten(data):
         for sensor_data in data["sensordatavalues"]
     }
 
-    sensor_lat = data["location"]["latitude"]
-    sensor_long = data["location"]["longitude"]
+    sensor_lat = float(data["location"]["latitude"])
+    sensor_long = float(data["location"]["longitude"])
     return {
         "lat": sensor_lat,
         "long": sensor_long,
