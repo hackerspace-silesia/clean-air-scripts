@@ -1,0 +1,1000 @@
+{ location: 'Wrocław - Korzeniowskiego',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.08681,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.129378, longitude: 17.02925 },
+  country: 'PL',
+  city: 'Wrocław' }
+{ location: 'Wrocław - Korzeniowskiego',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 7.10459,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.129378, longitude: 17.02925 },
+  country: 'PL',
+  city: 'Wrocław' }
+{ location: 'Wrocław - Korzeniowskiego',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 84.6767,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.129378, longitude: 17.02925 },
+  country: 'PL',
+  city: 'Wrocław' }
+{ location: 'Nowa Sól, ul. T. Kościuszki',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.4775,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.808662, longitude: 15.708193 },
+  country: 'PL',
+  city: 'Nowa Sól' }
+{ location: 'Nowa Sól, ul. T. Kościuszki',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 9.42443,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.808662, longitude: 15.708193 },
+  country: 'PL',
+  city: 'Nowa Sól' }
+{ location: 'Legnica - Rzeczypospolitej',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 89.7683,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.204503, longitude: 16.180513 },
+  country: 'PL',
+  city: 'Legnica' }
+{ location: 'Legnica - Rzeczypospolitej',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 1.53825,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.204503, longitude: 16.180513 },
+  country: 'PL',
+  city: 'Legnica' }
+{ location: 'Wrocław - Korzeniowskiego',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 1.39581,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.129378, longitude: 17.02925 },
+  country: 'PL',
+  city: 'Wrocław' }
+{ location: 'Dzierżoniów - Piłsudskiego',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 8.78786,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.732817, longitude: 16.64805 },
+  country: 'PL',
+  city: 'Dzierżoniów' }
+{ location: 'Dzierżoniów - Piłsudskiego',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 7.68678,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.732817, longitude: 16.64805 },
+  country: 'PL',
+  city: 'Dzierżoniów' }
+{ location: 'Kłodzko - Szkolna',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.6366,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.433493, longitude: 16.65366 },
+  country: 'PL',
+  city: 'Kłodzko' }
+{ location: 'Kłodzko - Szkolna',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 88.8694,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.433493, longitude: 16.65366 },
+  country: 'PL',
+  city: 'Kłodzko' }
+{ location: 'Kłodzko - Szkolna',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.35395,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.433493, longitude: 16.65366 },
+  country: 'PL',
+  city: 'Kłodzko' }
+{ location: 'Działoszyn',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.19214,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.972167, longitude: 14.941319 },
+  country: 'PL',
+  city: 'Działoszyn' }
+{ location: 'Działoszyn',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.61567,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.972167, longitude: 14.941319 },
+  country: 'PL',
+  city: 'Działoszyn' }
+{ location: 'Wałbrzych - Wysockiego',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 143.608,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.768729, longitude: 16.269677 },
+  country: 'PL',
+  city: 'Wałbrzych' }
+{ location: 'Wałbrzych - Wysockiego',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.4,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.768729, longitude: 16.269677 },
+  country: 'PL',
+  city: 'Wałbrzych' }
+{ location: 'Wałbrzych - Wysockiego',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.50488,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.768729, longitude: 16.269677 },
+  country: 'PL',
+  city: 'Wałbrzych' }
+{ location: 'Wałbrzych - Wysockiego',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 85.0023,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.768729, longitude: 16.269677 },
+  country: 'PL',
+  city: 'Wałbrzych' }
+{ location: 'Wałbrzych - Wysockiego',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 1.73716,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.768729, longitude: 16.269677 },
+  country: 'PL',
+  city: 'Wałbrzych' }
+{ location: 'Ząbkowice Śląskie',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 7.38032,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.592325, longitude: 16.819786 },
+  country: 'PL',
+  city: 'Ząbkowice Śląskie' }
+{ location: 'Oława - Żołnierzy AK',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 7.65623,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.942073, longitude: 17.291333 },
+  country: 'PL',
+  city: 'Oława' }
+{ location: 'Ząbkowice Śląskie',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 6.96403,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.592325, longitude: 16.819786 },
+  country: 'PL',
+  city: 'Ząbkowice Śląskie' }
+{ location: 'Śnieżka',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 72.7905,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.736389, longitude: 15.739722 },
+  country: 'PL',
+  city: 'Karpacz' }
+{ location: 'Oława - Żołnierzy AK',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 84.9809,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.942073, longitude: 17.291333 },
+  country: 'PL',
+  city: 'Oława' }
+{ location: 'Oława - Żołnierzy AK',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.01044,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.942073, longitude: 17.291333 },
+  country: 'PL',
+  city: 'Oława' }
+{ location: 'Osieczów',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.40683,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.31763, longitude: 15.431719 },
+  country: 'PL',
+  city: 'Osieczów' }
+{ location: 'Osieczów',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 85.8983,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.31763, longitude: 15.431719 },
+  country: 'PL',
+  city: 'Osieczów' }
+{ location: 'Duszniki-Zdrój',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 14.9061,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.402645, longitude: 16.393319 },
+  country: 'PL',
+  city: 'Duszniki-Zdrój' }
+{ location: 'Duszniki-Zdrój',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.91839,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.402645, longitude: 16.393319 },
+  country: 'PL',
+  city: 'Duszniki-Zdrój' }
+{ location: 'Duszniki-Zdrój',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.29236,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.402645, longitude: 16.393319 },
+  country: 'PL',
+  city: 'Duszniki-Zdrój' }
+{ location: 'Duszniki-Zdrój',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.32167,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.402645, longitude: 16.393319 },
+  country: 'PL',
+  city: 'Duszniki-Zdrój' }
+{ location: 'Jawor',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.51761,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.049212, longitude: 16.202317 },
+  country: 'PL',
+  city: 'Jawor' }
+{ location: 'Jawor',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.31307,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.049212, longitude: 16.202317 },
+  country: 'PL',
+  city: 'Jawor' }
+{ location: 'Jawor',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 13.1388,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.049212, longitude: 16.202317 },
+  country: 'PL',
+  city: 'Jawor' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.10345,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 84.7322,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 9.40806,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.15944,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.43639,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Jelenia Góra - Ogińskiego',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 258.13199999999995,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.913433, longitude: 15.765608 },
+  country: 'PL',
+  city: 'Jelenia Góra' }
+{ location: 'Zgorzelec - Bohaterów Getta',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 135.43,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.150391, longitude: 15.008175 },
+  country: 'PL',
+  city: 'Zgorzelec' }
+{ location: 'Zgorzelec - Bohaterów Getta',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.26636,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.150391, longitude: 15.008175 },
+  country: 'PL',
+  city: 'Zgorzelec' }
+{ location: 'Zgorzelec - Bohaterów Getta',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 8.14884,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.150391, longitude: 15.008175 },
+  country: 'PL',
+  city: 'Zgorzelec' }
+{ location: 'Lubań - Mieszka II',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.53998,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.119011, longitude: 15.275539 },
+  country: 'PL',
+  city: 'Lubań' }
+{ location: 'Lubań - Mieszka II',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 83.4481,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.119011, longitude: 15.275539 },
+  country: 'PL',
+  city: 'Lubań' }
+{ location: 'Lubań - Mieszka II',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 120.817,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.119011, longitude: 15.275539 },
+  country: 'PL',
+  city: 'Lubań' }
+{ location: 'Lubań - Mieszka II',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.42308,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.119011, longitude: 15.275539 },
+  country: 'PL',
+  city: 'Lubań' }
+{ location: 'Nowa Sól, ul. T. Kościuszki',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.41618,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.808662, longitude: 15.708193 },
+  country: 'PL',
+  city: 'Nowa Sól' }
+{ location: 'Łódź-Widzew',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 7,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.75805, longitude: 19.529786 },
+  country: 'PL',
+  city: 'Łódź' }
+{ location: 'Łódź-Widzew',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 205,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.75805, longitude: 19.529786 },
+  country: 'PL',
+  city: 'Łódź' }
+{ location: 'Łódź-Widzew',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 85.2,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.75805, longitude: 19.529786 },
+  country: 'PL',
+  city: 'Łódź' }
+{ location: 'Łódź-Widzew',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.75805, longitude: 19.529786 },
+  country: 'PL',
+  city: 'Łódź' }
+{ location: 'Łódź-Widzew',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 1.9,
+  unit: 'µg/m³',
+  coordinates: { latitude: 51.75805, longitude: 19.529786 },
+  country: 'PL',
+  city: 'Łódź' }
+{ location: 'Augustów - mobilne ',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.77385,
+  unit: 'µg/m³',
+  coordinates: { latitude: 53.859528, longitude: 23.00075 },
+  country: 'PL',
+  city: 'Augustów' }
+{ location: 'Lomza Sikorskiego 48/94',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.2,
+  unit: 'µg/m³',
+  coordinates: { latitude: 53.181394, longitude: 22.054381 },
+  country: 'PL',
+  city: 'Łomża' }
+{ location: 'Lomza Sikorskiego 48/94',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 22.5,
+  unit: 'µg/m³',
+  coordinates: { latitude: 53.181394, longitude: 22.054381 },
+  country: 'PL',
+  city: 'Łomża' }
+{ location: 'Lomza Sikorskiego 48/94',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.5,
+  unit: 'µg/m³',
+  coordinates: { latitude: 53.181394, longitude: 22.054381 },
+  country: 'PL',
+  city: 'Łomża' }
+{ location: 'Suwałki, ul. Pułaskiego 26',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.9,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.116056, longitude: 22.93875 },
+  country: 'PL',
+  city: 'Suwałki' }
+{ location: 'AM11 Słupsk Kniaziewicza',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.08569,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.463611, longitude: 17.046722 },
+  country: 'PL',
+  city: 'Słupsk' }
+{ location: 'AM11 Słupsk Kniaziewicza',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 71.6089,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.463611, longitude: 17.046722 },
+  country: 'PL',
+  city: 'Słupsk' }
+{ location: 'AM11 Słupsk Kniaziewicza',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 346.132,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.463611, longitude: 17.046722 },
+  country: 'PL',
+  city: 'Słupsk' }
+{ location: 'AM11 Słupsk Kniaziewicza',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.69762,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.463611, longitude: 17.046722 },
+  country: 'PL',
+  city: 'Słupsk' }
+{ location: 'AM11 Słupsk Kniaziewicza',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 8.86034,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.463611, longitude: 17.046722 },
+  country: 'PL',
+  city: 'Słupsk' }
+{ location: 'AM12 Kościerzyna Targowa',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 452.067,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.120694, longitude: 17.975861 },
+  country: 'PL',
+  city: 'Kościerzyna' }
+{ location: 'AM12 Kościerzyna Targowa',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.47406,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.120694, longitude: 17.975861 },
+  country: 'PL',
+  city: 'Kościerzyna' }
+{ location: 'AM12 Kościerzyna Targowa',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 73.9663,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.120694, longitude: 17.975861 },
+  country: 'PL',
+  city: 'Kościerzyna' }
+{ location: 'AM12 Kościerzyna Targowa',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.99045,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.120694, longitude: 17.975861 },
+  country: 'PL',
+  city: 'Kościerzyna' }
+{ location: 'AM15 Malbork Mickiewicza',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 179.32600000000002,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.031247, longitude: 19.032899 },
+  country: 'PL',
+  city: 'Malbork' }
+{ location: 'AM12 Kościerzyna Targowa',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.07357,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.120694, longitude: 17.975861 },
+  country: 'PL',
+  city: 'Kościerzyna' }
+{ location: 'AM15 Malbork Mickiewicza',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 11.2316,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.031247, longitude: 19.032899 },
+  country: 'PL',
+  city: 'Malbork' }
+{ location: 'AM15 Malbork Mickiewicza',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 65.9472,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.031247, longitude: 19.032899 },
+  country: 'PL',
+  city: 'Malbork' }
+{ location: 'AM15 Malbork Mickiewicza',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 5.69248,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.031247, longitude: 19.032899 },
+  country: 'PL',
+  city: 'Malbork' }
+{ location: 'AM16 Lębork Malczewskiego',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 159.969,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.546167, longitude: 17.746194 },
+  country: 'PL',
+  city: 'Lębork' }
+{ location: 'AM16 Lębork Malczewskiego',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 2.33386,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.546167, longitude: 17.746194 },
+  country: 'PL',
+  city: 'Lębork' }
+{ location: 'AM16 Lębork Malczewskiego',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 1.81609,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.546167, longitude: 17.746194 },
+  country: 'PL',
+  city: 'Lębork' }
+{ location: 'AM16 Lębork Malczewskiego',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 69.504,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.546167, longitude: 17.746194 },
+  country: 'PL',
+  city: 'Lębork' }
+{ location: 'IMGW Łeba - Rąbka',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 80.1073,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.754139, longitude: 17.534528 },
+  country: 'PL',
+  city: 'Łeba' }
+{ location: 'Szymbark',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 110.146,
+  unit: 'µg/m³',
+  coordinates: { latitude: 49.633714, longitude: 21.116833 },
+  country: 'PL',
+  city: 'Szymbark' }
+{ location: 'Szymbark',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.32431,
+  unit: 'µg/m³',
+  coordinates: { latitude: 49.633714, longitude: 21.116833 },
+  country: 'PL',
+  city: 'Szymbark' }
+{ location: 'Szymbark',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 6.40348,
+  unit: 'µg/m³',
+  coordinates: { latitude: 49.633714, longitude: 21.116833 },
+  country: 'PL',
+  city: 'Szymbark' }
+{ location: 'Skawina, os. Ogrody',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 10.1867,
+  unit: 'µg/m³',
+  coordinates: { latitude: 49.971047, longitude: 19.830422 },
+  country: 'PL',
+  city: 'Skawina' }
+{ location: 'AM17 Liniewko Kościerskie',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 209.793,
+  unit: 'µg/m³',
+  coordinates: { latitude: 54.104111, longitude: 18.182972 },
+  country: 'PL',
+  city: 'Liniewko Kościerskie' }
+{ location: 'Opole automat 5',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 13.3086,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.666736, longitude: 17.899137 },
+  country: 'PL',
+  city: 'Opole' }
+{ location: 'Opole manualna 4',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.29253,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.676856, longitude: 17.950278 },
+  country: 'PL',
+  city: 'Opole' }
+{ location: 'Opole manualna 4',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 97.8384,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.676856, longitude: 17.950278 },
+  country: 'PL',
+  city: 'Opole' }
+{ location: 'Opole manualna 4',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.72087,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.676856, longitude: 17.950278 },
+  country: 'PL',
+  city: 'Opole' }
+{ location: 'Opole manualna 4',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.97425,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.676856, longitude: 17.950278 },
+  country: 'PL',
+  city: 'Opole' }
+{ location: 'Olesno automat 4',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.36794,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.876983, longitude: 18.416878 },
+  country: 'PL',
+  city: 'Olesno' }
+{ location: 'Olesno automat 4',
+  parameter: 'o3',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 99.3639,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.876983, longitude: 18.416878 },
+  country: 'PL',
+  city: 'Olesno' }
+{ location: 'Prudnik mobilna',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 13.0348,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.320858, longitude: 17.591909 },
+  country: 'PL',
+  city: 'Prudnik' }
+{ location: 'Zdzieszowice automat 2',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.02213,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.423533, longitude: 18.120739 },
+  country: 'PL',
+  city: 'Zdzieszowice' }
+{ location: 'Prudnik mobilna',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 4.9388,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.320858, longitude: 17.591909 },
+  country: 'PL',
+  city: 'Prudnik' }
+{ location: 'Zdzieszowice automat 2',
+  parameter: 'no2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.76724,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.423533, longitude: 18.120739 },
+  country: 'PL',
+  city: 'Zdzieszowice' }
+{ location: 'Prudnik mobilna',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.09486,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.320858, longitude: 17.591909 },
+  country: 'PL',
+  city: 'Prudnik' }
+{ location: 'K-Koźle automat 1',
+  parameter: 'bc',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 0.08838,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.349608, longitude: 18.236575 },
+  country: 'PL',
+  city: 'Kędzierzyn-Koźle' }
+{ location: 'Zdzieszowice automat 2',
+  parameter: 'pm10',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 12.0171,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.423533, longitude: 18.120739 },
+  country: 'PL',
+  city: 'Zdzieszowice' }
+{ location: 'Zdzieszowice automat 2',
+  parameter: 'so2',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 6.81034,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.423533, longitude: 18.120739 },
+  country: 'PL',
+  city: 'Zdzieszowice' }
+{ location: 'K-Koźle automat 1',
+  parameter: 'co',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 84.6,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.349608, longitude: 18.236575 },
+  country: 'PL',
+  city: 'Kędzierzyn-Koźle' }
+{ location: 'K-Koźle automat 1',
+  parameter: 'pm25',
+  date: 
+   { local: '2019-07-03T20:00:00+02:00',
+     utc: '2019-07-03T18:00:00.000Z' },
+  value: 3.84111,
+  unit: 'µg/m³',
+  coordinates: { latitude: 50.349608, longitude: 18.236575 },
+  country: 'PL',
+  city: 'Kędzierzyn-Koźle' }
