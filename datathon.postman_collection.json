@@ -1,0 +1,152 @@
+{
+	"info": {
+		"_postman_id": "48da6502-edf0-44b2-8462-246d4a15a2c1",
+		"name": "datathon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Luftdaten",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.luftdaten.info/v1/filter/country=PL",
+					"protocol": "http",
+					"host": [
+						"api",
+						"luftdaten",
+						"info"
+					],
+					"path": [
+						"v1",
+						"filter",
+						"country=PL"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "gios - all stations",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.gios.gov.pl/pjp-api/rest/station/findAll",
+					"protocol": "http",
+					"host": [
+						"api",
+						"gios",
+						"gov",
+						"pl"
+					],
+					"path": [
+						"pjp-api",
+						"rest",
+						"station",
+						"findAll"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "gios - station jelenia góra",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.gios.gov.pl/pjp-api/rest/station/sensors/9153",
+					"protocol": "http",
+					"host": [
+						"api",
+						"gios",
+						"gov",
+						"pl"
+					],
+					"path": [
+						"pjp-api",
+						"rest",
+						"station",
+						"sensors",
+						"9153"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "gios - sensor pm2.5 from jelenia góra",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.gios.gov.pl/pjp-api/rest/data/getData/14731",
+					"protocol": "http",
+					"host": [
+						"api",
+						"gios",
+						"gov",
+						"pl"
+					],
+					"path": [
+						"pjp-api",
+						"rest",
+						"data",
+						"getData",
+						"14731"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "openaq",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.openaq.org/v1/measurements?country=PL",
+					"protocol": "https",
+					"host": [
+						"api",
+						"openaq",
+						"org"
+					],
+					"path": [
+						"v1",
+						"measurements"
+					],
+					"query": [
+						{
+							"key": "country",
+							"value": "PL"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
