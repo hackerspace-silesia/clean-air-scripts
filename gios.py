@@ -6,6 +6,7 @@ import urllib
 from urllib.request import Request
 from collections import defaultdict
 from time import time
+from sys import stderr
 
 import urllib3
 
@@ -76,9 +77,10 @@ def gios():
     gios_all_stations = all_data()
 
     total_values = len(gios_all_stations)
+    tt = time()
     for i, obj in enumerate(gios_all_stations):
         t = time()
-        print(i, '/', total_values, '...', end='')
+        print(i, '/', total_values, '...', end='', file=stderr)
         result_id = obj['id']
         sensor_url = Request(URL + f'station/sensors/{result_id}')
         gios_sensor_data = urllib.request.urlopen(sensor_url, timeout=60)
@@ -92,7 +94,7 @@ def gios():
                 )
             except ParseError as error:
                 errors_counter[error.sensor_type] += 1
-                print('!!!', error)
+                print('!!!', error, file=stderr)
                 continue
 
             if useful_data is None:
@@ -107,15 +109,15 @@ def gios():
                 'lon': float(obj['gegrLon']),
             })
 
-        print(' time: %.2fs' % (time() - t))
+        print(' time: %.2fs' % (time() - t), end='\r', file=stderr)
 
     counter_by_sensor = defaultdict(int)
     for obj in values:
         counter_by_sensor[obj['sensor_type']] += 1
 
-    print('errors', errors_counter)
-    print('count by sensor type', counter_by_sensor)
-    print('total time: %.2fs' % (time() - t))
+    print('errors', dict(errors_counter), file=stderr)
+    print('count by sensor type', dict(counter_by_sensor), file=stderr)
+    print('total time: %.2fs' % (time() - tt), file=stderr)
     return values
 
 if __name__ == "__main__":

@@ -8,6 +8,7 @@ from requests.adapters import HTTPAdapter
 import urllib3
 from urllib3.util import Retry
 from logging import getLogger
+from sys import stderr
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -59,7 +60,7 @@ def luftdaten():
     try:
         luftdaten_all_data = get_all_data()
     except urllib.error.HTTPError as e:
-        print("luftdaten returned %s" % e)
+        print("luftdaten returned %s" % e, file=stderr)
 
     parsed_data = (
         _get_fancy_data_from_single_luftdaten(data)
